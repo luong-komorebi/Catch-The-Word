@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Đuổi hình bắt chữ</string>
+    <string name="score">Điểm : 0</string>
+    <string name="bid">Cược điểm</string>
+    <string name="result">Đáp án : </string>
+    <string name="answ">Trả lời</string>
+</resources>
